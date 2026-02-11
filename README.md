@@ -10,9 +10,9 @@
 
 
 
-\*\*Nombre:\*\* Ilse Nahomi Paz Ramírez 
+\*\*Nombre:\*\* Ilse Nahomi Paz Ramírez
 
-\*\*Matrícula:\*\* A00841078 
+\*\*Matrícula:\*\* A00841078
 
 \*\*Semestre:\*\* Febrero-Junio 2026
 
@@ -52,7 +52,7 @@ TC2004B-Nahomi/
 
 \- Primer notebook con dataset Iris
 
-\- Familiarización con herramientas
+\- Familiarización con herramientas(Google Collab, GitHub)
 
 
 
